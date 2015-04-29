@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd">
+    <Document>
+        <name>NetworkLink</name>
+        <Folder>
+            <NetworkLink>
+                <name>Network Link</name>
+                <description>Get a new KML</description>
+                <Link>
+                    <href>http://gmaps-samples.googlecode.com/svn/trunk/ggeoxml/cta.kml</href>
+                </Link>
+            </NetworkLink>
+		<NetworkLink>
+		    <name>Network Link</name>
+		    <description>poly1800</description>
+		    <Link>
+			<href>https://raw.githubusercontent.com/SriramMLN/KML_Files/master/Polys1800.kml</href>
+		    </Link>
+		</NetworkLink>
+            <NetworkLink>
+                <name>Network Link</name>
+                <description>PlcMrks 2000</description>
+                <Link>
+                    <href>https://raw.githubusercontent.com/SriramMLN/KML_Files/master/PlcMrks2000.kml</href>
+                </Link>
+            </NetworkLink>
+            <NetworkLink>
+	                    <name>Network Link</name>
+	                    <description>PlcMrks 2000</description>
+	                    <Link>
+	                        <href>https://raw.githubusercontent.com/SriramMLN/KML_Files/master/PlcMrks1539.kml</href>
+	                    </Link>
+            </NetworkLink>
+            
+
+        </Folder>
+    </Document>
+</kml>
